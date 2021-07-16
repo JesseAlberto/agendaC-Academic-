@@ -1,0 +1,62 @@
+[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[3J[H[2J[31m	-----------------------------------------
+			Menu Principal		
+	-----------------------------------------
+	 1- Inserir
+	 2- Apagar
+	 3- Imprimir
+	 9- Sair
+	-----------------------------------------[0m
+Insira a sua escolha->Insira o Nome->Insira o CC (8char)->Insira o Telefone (9char)->Insira a idade->[31m	-----------------------------------------
+			Menu Principal		
+	-----------------------------------------
+	 1- Inserir
+	 2- Apagar
+	 3- Imprimir
+	 9- Sair
+	-----------------------------------------[0m
+Insira a sua escolha->Insira o Nome->Insira o CC (8char)->Insira o Telefone (9char)->Insira a idade->[31m	-----------------------------------------
+			Menu Principal		
+	-----------------------------------------
+	 1- Inserir
+	 2- Apagar
+	 3- Imprimir
+	 9- Sair
+	-----------------------------------------[0m
+Insira a sua escolha->Insira o Nome->Insira o CC (8char)->Insira o Telefone (9char)->Insira a idade->[31m	-----------------------------------------
+			Menu Principal		
+	-----------------------------------------
+	 1- Inserir
+	 2- Apagar
+	 3- Imprimir
+	 9- Sair
+	-----------------------------------------[0m
+Insira a sua escolha->-> Vitor, 23 anos [CC:12345678] [Tlf:960000000]
+-> José Couteiro, 44 anos [CC:99345678] [Tlf:960660000]
+-> Anibal, 22 anos [CC:32177778] [Tlf:960660000]
+[31m	-----------------------------------------
+			Menu Principal		
+	-----------------------------------------
+	 1- Inserir
+	 2- Apagar
+	 3- Imprimir
+	 9- Sair
+	-----------------------------------------[0m
+Insira a sua escolha->Insira o CC (8char)->[31m	-----------------------------------------
+			Menu Principal		
+	-----------------------------------------
+	 1- Inserir
+	 2- Apagar
+	 3- Imprimir
+	 9- Sair
+	-----------------------------------------[0m
+Insira a sua escolha->-> Vitor, 23 anos [CC:12345678] [Tlf:960000000]
+-> Anibal, 22 anos [CC:32177778] [Tlf:960660000]
+[31m	-----------------------------------------
+			Menu Principal		
+	-----------------------------------------
+	 1- Inserir
+	 2- Apagar
+	 3- Imprimir
+	 9- Sair
+	-----------------------------------------[0m
+Insira a sua escolha->A sair....
